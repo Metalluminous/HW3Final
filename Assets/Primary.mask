@@ -104,9 +104,9 @@ AvatarMask:
   - m_Path: Armature/BoneAse/BoneAse2
     m_Weight: 1
   - m_Path: Cylinder
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: Cylinder.001
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: HW3hand
     m_Weight: 0
   - m_Path: HW3hand.001
@@ -116,4 +116,4 @@ AvatarMask:
   - m_Path: HW3hand.003
     m_Weight: 0
   - m_Path: Plane
-    m_Weight: 0
+    m_Weight: 1
